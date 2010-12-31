@@ -18,6 +18,7 @@ Atheme Web 1.0 (coincides with Atheme 5.0 release!)
   [?] password recovery module
   [X] HostServ:Request integration
 [x] Example mod_wsgi config for Apache deployment
+[x] Add more pie.
 
 Atheme Web 1.1 (Atheme 5.1)
 
